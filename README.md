@@ -12,7 +12,6 @@ Proactive problem-solver with a strong foundation in AI, ML, and data analytics.
 #### **Languages & Tools:**  
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 10px;"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 10px;"> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="border-radius: 10px;"> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius: 10px;"> 
 <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 10px;"> 
